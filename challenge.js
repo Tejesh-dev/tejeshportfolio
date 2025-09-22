@@ -40,9 +40,10 @@
 
     // Set project links (optional)
     document.addEventListener('DOMContentLoaded', () => {
-        document.getElementById('live-link').href = "https://github.com/Tejesh-dev/100-Days-100-Projects-Challenge";
+        document.getElementById('live-link').href = "https://100-days-100-projects-challenge.vercel.app/";
         document.getElementById('github-link').href = "https://github.com/Tejesh-dev/100-Days-100-Projects-Challenge";
         updateUI();
     });
 
 })();
+
