@@ -1,4 +1,4 @@
- // ========== Typed.js Animation Effect ==========  
+ // ========== Typed.js Animation Effect ==========++
  var typed = new Typed('#element', {
     strings: ['Web Development..', 'App Development..', 'College Projects',' Crafting Innovative Web Experiences', 'UI/UX Design..'],
     typeSpeed: 35,
